@@ -1,0 +1,1 @@
+- The app will be available at: `https://224abhay.github.io/PU-RideConnect`
